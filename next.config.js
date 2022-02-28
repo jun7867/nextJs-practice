@@ -16,7 +16,7 @@ const nextConfig = {
     return [
       {
         source: '/api/movies',
-        destination: `https://api.movie.org/movie/${API_Key}`,
+        destination: `https://api.movie.org/movie/${API_KEY}`,
       },
     ];
   },
